@@ -16,9 +16,7 @@ Software Architect
 <img  align="center" alt="DynamoDB" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dynamodb/dynamodb-original.svg">
 <img  align="center" alt="DynamoDB" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg">
 <img  align="center" alt="DynamoDB" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-plain-wordmark.svg">
-</div>
-
-<br/>
+</div><br/>><br/>
 
 ##
 
