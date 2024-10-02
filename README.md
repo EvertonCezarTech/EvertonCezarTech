@@ -18,7 +18,7 @@ Software Architect
 <img  align="center" alt="DynamoDB" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-plain-wordmark.svg">
 </div>
 
-<br/><br/>
+<br/>
 
 ##
 
