@@ -16,13 +16,13 @@ Software Architect
 <img  align="center" alt="DynamoDB" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dynamodb/dynamodb-original.svg">
 <img  align="center" alt="DynamoDB" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg">
 <img  align="center" alt="DynamoDB" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-plain-wordmark.svg">
-</div><br/>><br/>
+</div><br/>
 
 ##
 
 ### 📚 Artigos Postados
 
-* <a href="https://dev.to/evertoncezartech/cloud-computing-principais-beneficios-e-desafios-enfrentados-na-adocao-da-computacao-em-nuvem-1184">Cloud Computing: Principais benefícios e desafios enfrentados na adoção da computação em nuvem </a>
+* <a href="https://dev.to/evertoncezartech/cloud-computing-principais-beneficios-e-desafios-enfrentados-na-adocao-da-computacao-em-nuvem-1184">Cloud Computing: Principais benefícios e desafios enfrentados na adoção da computação em nuvem </a> <br>
 
 ##
 
