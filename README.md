@@ -22,7 +22,7 @@ Software Architect
 
 ### 📚 Artigos Postados
 
-* <a href="https://dev.to/evertoncezartech/cloud-computing-principais-beneficios-e-desafios-enfrentados-na-adocao-da-computacao-em-nuvem-1184">Cloud Computing: Principais benefícios e desafios enfrentados na adoção da computação em nuvem </a> <br>
+* <a href="https://dev.to/evertoncezartech/cloud-computing-principais-beneficios-e-desafios-enfrentados-na-adocao-da-computacao-em-nuvem-1184">Cloud Computing: Principais benefícios e desafios enfrentados na adoção da computação em nuvem </a> <br> <br>
 
 ##
 
